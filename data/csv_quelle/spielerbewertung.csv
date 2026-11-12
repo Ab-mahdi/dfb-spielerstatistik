@@ -1,0 +1,33 @@
+Spiel_ID,Spieler_ID,Bewerter,Bewertung_in_Prozent,Kommentar
+S01,1,kicker,70,solide
+S01,1,Bild,80,stark im Zweikampf
+S01,1,DFB-Scout,90,sehr gutes Passspiel
+S01,2,kicker,60,unauffällig
+S02,1,kicker,75,
+S02,1,DFB-Scout,85,Führungsspieler
+S03,1,kicker,65,
+S03,3,kicker,55,nervös
+S03,3,Bild,65,
+S03,5,kicker,50,
+S04,1,kicker,90,Spieler des Spiels
+S04,1,Bild,70,
+S04,1,DFB-Scout,80,
+S05,2,kicker,72,
+S05,2,Bild,68,
+S05,3,kicker,58,
+S06,1,kicker,85,
+S06,1,Bild,75,
+S07,1,kicker,95,Doppelpack
+S08,3,kicker,80,
+S08,3,DFB-Scout,90,großes Talent
+S09,1,kicker,60,
+S09,1,Bild,70,
+S09,1,DFB-Scout,65,
+S09,2,kicker,75,
+S10,2,kicker,82,
+S10,2,Bild,78,
+S10,1,kicker,,
+S11,2,kicker,90,Blitzturnier Spiel 2
+S12,1,kicker,70,
+S12,2,kicker,66,
+S12,2,Bild,74,Siegtor

@@ -1,0 +1,13 @@
+TX_ID,Spieler_ID,Sender,Empfaenger,Zahlungsname,Zahlungstyp,Zahlungsdatum,Zahlungsbetrag,Zahlungswaehrung,Zahlungsabwicklung,Zahlungsstatus
+TX01,1,DFB,Leon Brandt,Siegprämie Länderspiel Frankreich,Praemie_Nationalmannschaft,2026-03-28,10000.00,EUR,Überweisung,bezahlt
+TX02,1,DFB,Leon Brandt,Siegprämie Länderspiel Italien,Praemie_Nationalmannschaft,2026-09-06,12000.00,EUR,Überweisung,bezahlt
+TX03,1,FC Nord,Leon Brandt,Punktprämie,Praemie_Verein,2026-09-20,3000.00,EUR,Überweisung,offen
+TX04,1,DFB,Leon Brandt,Turnierprämie U21,Praemie_Nationalmannschaft,2025-10-11,2000.00,EUR,Überweisung,storniert
+TX05,1,FC Nord,Leon Brandt,Gehalt Oktober,Gehalt,2026-10-31,50000.00,EUR,Überweisung,bezahlt
+TX06,2,SV Süd,Jonas Weber,Punktprämie,Praemie_Verein,2026-10-18,2500.00,EUR,Überweisung,bezahlt
+TX07,2,SV Süd,Jonas Weber,Gehalt Oktober,Gehalt,2026-10-31,30000.00,EUR,Überweisung,bezahlt
+TX08,3,DFB,Tim Schulz,Turnierprämie U19,Praemie_Nationalmannschaft,2026-09-09,1500.00,EUR,Überweisung,offen
+TX09,5,FC Nord,Lukas Hoffmann,Einsatzprämie,Praemie_Verein,2025-11-23,1000.00,EUR,Überweisung,storniert
+TX10,2,SV Süd,Jonas Weber,Punktprämie,Praemie_Verein,2026-04-19,2000.00,EUR,Überweisung,bezahlt
+TX11,3,DFB,Tim Schulz,Turnierprämie U19-EM Vorrunde,Praemie_Nationalmannschaft,2026-06-30,500.00,EUR,Überweisung,bezahlt
+TX12,3,DFB,Tim Schulz,Turnierprämie U19-EM Finalrunde,Praemie_Nationalmannschaft,2026-07-01,700.00,EUR,Überweisung,bezahlt

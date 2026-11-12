@@ -1,0 +1,13 @@
+Spiel_ID,Spieldatum,Saison,Spielort,Spielland,Mannschaft1,Mannschaft2,Mannschaft1_Kapitaen,Mannschaft2_Kapitaen,Ergebnis,Zuschauerzahl,Zuschauereinnahmen_EUR,Sponsoreneinnahmen_EUR,isLaenderspiel,Nationalmannschaftkategorie
+S01,2025-07-19,2025/26,Stuttgart,Deutschland,FC Nord,SV Süd,1,2,2:1,3500,35000.00,10000.00,false,
+S02,2025-10-10,2025/26,Rostock,Deutschland,Deutschland U21,Spanien U21,1,,1:1,12000,180000.00,50000.00,true,U21
+S03,2025-11-22,2025/26,Köln,Deutschland,TSV West,FC Nord,3,1,0:2,30000,600000.00,150000.00,false,
+S04,2026-03-27,2025/26,Berlin,Deutschland,Deutschland,Frankreich,1,,2:0,74000,3500000.00,1200000.00,true,A
+S05,2026-04-18,2025/26,Stuttgart,Deutschland,SV Süd,TSV West,2,3,3:3,40000,800000.00,200000.00,false,
+S06,2026-08-29,2026/27,Hamburg,Deutschland,FC Nord,TSV West,1,,1:0,47000,950000.00,260000.00,false,
+S07,2026-09-05,2026/27,Mailand,Italien,Italien,Deutschland,,1,1:2,70000,3000000.00,1100000.00,true,A
+S08,2026-09-08,2026/27,Utrecht,Niederlande,Niederlande U19,Deutschland U19,,3,0:1,5000,40000.00,10000.00,true,U19
+S09,2026-09-19,2026/27,Stuttgart,Deutschland,SV Süd,FC Nord,2,1,2:2,41000,820000.00,210000.00,false,
+S10,2026-10-03,2026/27,Stuttgart,Deutschland,SV Süd,TSV West,2,,1:0,39000,780000.00,200000.00,false,
+S11,2025-07-19,2025/26,Stuttgart,Deutschland,SV Süd,TSV West,2,,4:0,3500,35000.00,10000.00,false,
+S12,ABC,2026/27,Hamburg,Deutschland,FC Nord,SV Süd,1,2,0:1,46000,920000.00,255000.00,false,

@@ -1,0 +1,6 @@
+Spieler_ID,Name,Staatsangehoerigkeit,Telefonnummer,Wohnort,Verein,Geburtsdatum,Alter
+1,Leon Brandt,deutsch,+49 151 0000001,Hamburg,FC Nord,2004-03-14,22
+2,Jonas Weber,deutsch,+49 151 0000002,Stuttgart,SV Süd,2004-07-02,22
+3,Tim Schulz,deutsch,+49 151 0000003,Köln,TSV West,2009-05-20,17
+4,Ben Koch,österreichisch,+43 660 0000004,Wien,TSV West,1997-01-08,29
+5,Lukas Hoffmann,deutsch,+49 151 0000005,Bremen,FC Nord,2000-12-01,25
